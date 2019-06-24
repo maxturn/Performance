@@ -1,0 +1,383 @@
+Athlete,Position,Season,Week,Date ,Day,Session Type,Session Number,Details,RPE,Duration,RPE Load
+99E,E,In-Season,34,8/28/18,Tuesday,Tuesday Practice,22,,5,135,675
+99E,E,In-Season,34,8/29/18,Wednesday,Wednesday Practice,23,,6,135,810
+99E,E,In-Season,35,9/4/18,Tuesday,Tuesday Practice,25,,7,140,980
+99E,E,In-Season,35,9/5/18,Wednesday,Wednesday Practice,26,,5,140,700
+99E,E,In-Season,35,9/6/18,Thursday,Thursday Practice,27,,3,95,285
+99E,E,In-Season,36,9/11/18,Tuesday,Tuesday Practice,28,,5,140,700
+99E,E,In-Season,36,9/12/18,Wednesday,Wednesday Practice,29,,5,135,675
+99E,E,In-Season,36,9/13/18,Thursday,Thursday Practice,30,,3,95,285
+99E,E,In-Season,37,9/17/18,Monday,Tuesday Practice,31,Friday Game,4,140,560
+99E,E,In-Season,37,9/18/18,Tuesday,Wednesday Practice,32,Friday Game,5,160,800
+99E,E,In-Season,37,9/19/18,Wednesday,Thursday Practice,33,Friday Game,2,95,190
+96D,D,In-Season,34,8/28/18,Tuesday,Tuesday Practice,22,,4,135,540
+96D,D,In-Season,34,8/29/18,Wednesday,Wednesday Practice,23,,5,135,675
+96D,D,In-Season,35,9/4/18,Tuesday,Tuesday Practice,25,,6.5,140,910
+96D,D,In-Season,35,9/5/18,Wednesday,Wednesday Practice,26,,6,140,840
+96D,D,In-Season,35,9/6/18,Thursday,Thursday Practice,27,,3,95,285
+96D,D,In-Season,36,9/13/18,Thursday,Thursday Practice,30,,3,95,285
+96D,D,In-Season,37,9/19/18,Wednesday,Thursday Practice,33,Friday Game,2,95,190
+91C,C,In-Season,34,8/28/18,Tuesday,Tuesday Practice,22,,8,135,1080
+91C,C,In-Season,34,8/29/18,Wednesday,Wednesday Practice,23,,5,135,675
+91C,C,In-Season,34,8/30/18,Thursday,Thursday Practice,24,,2,90,180
+91C,C,In-Season,35,9/4/18,Tuesday,Tuesday Practice,25,,7,140,980
+91C,C,In-Season,35,9/6/18,Thursday,Thursday Practice,27,,4,95,380
+91C,C,In-Season,36,9/11/18,Tuesday,Tuesday Practice,28,,4,140,560
+91C,C,In-Season,36,9/12/18,Wednesday,Wednesday Practice,29,,4,135,540
+91C,C,In-Season,36,9/13/18,Thursday,Thursday Practice,30,,2,95,190
+91C,C,In-Season,37,9/17/18,Monday,Tuesday Practice,31,Friday Game,4,140,560
+91C,C,In-Season,37,9/18/18,Tuesday,Wednesday Practice,32,Friday Game,4,160,640
+91C,C,In-Season,37,9/19/18,Wednesday,Thursday Practice,33,Friday Game,4,95,380
+89B,B,In-Season,34,8/28/18,Tuesday,Tuesday Practice,22,,4,135,540
+89B,B,In-Season,34,8/29/18,Wednesday,Wednesday Practice,23,,6,135,810
+89B,B,In-Season,34,8/30/18,Thursday,Thursday Practice,24,,3,90,270
+89B,B,In-Season,35,9/4/18,Tuesday,Tuesday Practice,25,,8.5,140,1190
+89B,B,In-Season,35,9/5/18,Wednesday,Wednesday Practice,26,,7,140,980
+89B,B,In-Season,35,9/6/18,Thursday,Thursday Practice,27,,3,95,285
+89B,B,In-Season,36,9/11/18,Tuesday,Tuesday Practice,28,,5,140,700
+89B,B,In-Season,36,9/13/18,Thursday,Thursday Practice,30,,2,95,190
+89B,B,In-Season,37,9/18/18,Tuesday,Wednesday Practice,32,Friday Game,5,160,800
+89B,B,In-Season,37,9/19/18,Wednesday,Thursday Practice,33,Friday Game,2,95,190
+87D,D,In-Season,34,8/28/18,Tuesday,Tuesday Practice,22,,4,135,540
+87D,D,In-Season,34,8/29/18,Wednesday,Wednesday Practice,23,,3,135,405
+87D,D,In-Season,35,9/4/18,Tuesday,Tuesday Practice,25,,4,140,560
+87D,D,In-Season,35,9/5/18,Wednesday,Wednesday Practice,26,,3,140,420
+87D,D,In-Season,36,9/12/18,Wednesday,Wednesday Practice,29,,2,135,270
+87D,D,In-Season,37,9/18/18,Tuesday,Wednesday Practice,32,Friday Game,3,160,480
+87D,D,In-Season,37,9/19/18,Wednesday,Thursday Practice,33,Friday Game,2,95,190
+86C,C,In-Season,34,8/29/18,Wednesday,Wednesday Practice,23,,4,135,540
+86C,C,In-Season,34,8/30/18,Thursday,Thursday Practice,24,,3,90,270
+86C,C,In-Season,35,9/5/18,Wednesday,Wednesday Practice,26,,7,140,980
+86C,C,In-Season,36,9/11/18,Tuesday,Tuesday Practice,28,,4,140,560
+86C,C,In-Season,36,9/12/18,Wednesday,Wednesday Practice,29,,4,135,540
+86C,C,In-Season,36,9/13/18,Thursday,Thursday Practice,30,,3,95,285
+86C,C,In-Season,37,9/17/18,Monday,Tuesday Practice,31,Friday Game,3,140,420
+86C,C,In-Season,37,9/18/18,Tuesday,Wednesday Practice,32,Friday Game,3,160,480
+86C,C,In-Season,37,9/19/18,Wednesday,Thursday Practice,33,Friday Game,3,95,285
+85G,G,In-Season,34,8/29/18,Wednesday,Wednesday Practice,23,,5,135,675
+85G,G,In-Season,35,9/4/18,Tuesday,Tuesday Practice,25,,10,140,1400
+85G,G,In-Season,35,9/5/18,Wednesday,Wednesday Practice,26,,10,140,1400
+85G,G,In-Season,36,9/11/18,Tuesday,Tuesday Practice,28,,5,140,700
+85G,G,In-Season,37,9/18/18,Tuesday,Wednesday Practice,32,Friday Game,10,160,1600
+85G,G,In-Season,37,9/19/18,Wednesday,Thursday Practice,33,Friday Game,6,95,570
+84C,C,In-Season,34,8/28/18,Tuesday,Tuesday Practice,22,,4,135,540
+84C,C,In-Season,34,8/29/18,Wednesday,Wednesday Practice,23,,4,135,540
+84C,C,In-Season,34,8/30/18,Thursday,Thursday Practice,24,,4,90,360
+84C,C,In-Season,35,9/4/18,Tuesday,Tuesday Practice,25,,4,140,560
+84C,C,In-Season,35,9/5/18,Wednesday,Wednesday Practice,26,,4,140,560
+84C,C,In-Season,35,9/6/18,Thursday,Thursday Practice,27,,4,95,380
+84C,C,In-Season,36,9/11/18,Tuesday,Tuesday Practice,28,,4,140,560
+84C,C,In-Season,36,9/12/18,Wednesday,Wednesday Practice,29,,4,135,540
+84C,C,In-Season,36,9/13/18,Thursday,Thursday Practice,30,,4,95,380
+84C,C,In-Season,37,9/17/18,Monday,Tuesday Practice,31,Friday Game,4,140,560
+84C,C,In-Season,37,9/18/18,Tuesday,Wednesday Practice,32,Friday Game,4,160,640
+80H,H,In-Season,34,8/28/18,Tuesday,Tuesday Practice,22,,2,135,270
+80H,H,In-Season,34,8/29/18,Wednesday,Wednesday Practice,23,,5,135,675
+80H,H,In-Season,35,9/4/18,Tuesday,Tuesday Practice,25,,4,140,560
+80H,H,In-Season,35,9/5/18,Wednesday,Wednesday Practice,26,,4,140,560
+80H,H,In-Season,35,9/6/18,Thursday,Thursday Practice,27,,3,95,285
+80H,H,In-Season,36,9/11/18,Tuesday,Tuesday Practice,28,,4.5,140,630
+80H,H,In-Season,36,9/13/18,Thursday,Thursday Practice,30,,4,95,380
+80H,H,In-Season,37,9/17/18,Monday,Tuesday Practice,31,Friday Game,4,140,560
+80H,H,In-Season,37,9/18/18,Tuesday,Wednesday Practice,32,Friday Game,5,160,800
+80H,H,In-Season,37,9/19/18,Wednesday,Thursday Practice,33,Friday Game,2,95,190
+7B,B,In-Season,34,8/29/18,Wednesday,Wednesday Practice,23,,3,135,405
+7B,B,In-Season,34,8/30/18,Thursday,Thursday Practice,24,,2,90,180
+7B,B,In-Season,35,9/4/18,Tuesday,Tuesday Practice,25,,4,140,560
+7B,B,In-Season,35,9/5/18,Wednesday,Wednesday Practice,26,,4,140,560
+7B,B,In-Season,35,9/6/18,Thursday,Thursday Practice,27,,3,95,285
+7B,B,In-Season,36,9/11/18,Tuesday,Tuesday Practice,28,,3,140,420
+7B,B,In-Season,36,9/13/18,Thursday,Thursday Practice,30,,3,95,285
+7B,B,In-Season,37,9/18/18,Tuesday,Wednesday Practice,32,Friday Game,3,160,480
+7B,B,In-Season,37,9/19/18,Wednesday,Thursday Practice,33,Friday Game,3,95,285
+76B,B,In-Season,34,8/28/18,Tuesday,Tuesday Practice,22,,5,135,675
+76B,B,In-Season,34,8/30/18,Thursday,Thursday Practice,24,,4,90,360
+76B,B,In-Season,35,9/4/18,Tuesday,Tuesday Practice,25,,6,140,840
+76B,B,In-Season,35,9/5/18,Wednesday,Wednesday Practice,26,,4,140,560
+76B,B,In-Season,35,9/6/18,Thursday,Thursday Practice,27,,3,95,285
+76B,B,In-Season,36,9/11/18,Tuesday,Tuesday Practice,28,,4,140,560
+76B,B,In-Season,36,9/12/18,Wednesday,Wednesday Practice,29,,4,135,540
+76B,B,In-Season,36,9/13/18,Thursday,Thursday Practice,30,,3,95,285
+76B,B,In-Season,37,9/17/18,Monday,Tuesday Practice,31,Friday Game,4,140,560
+76B,B,In-Season,37,9/19/18,Wednesday,Thursday Practice,33,Friday Game,3,95,285
+75F,F,In-Season,34,8/28/18,Tuesday,Tuesday Practice,22,,6,135,810
+75F,F,In-Season,34,8/29/18,Wednesday,Wednesday Practice,23,,6,135,810
+75F,F,In-Season,36,9/13/18,Thursday,Thursday Practice,30,,5,95,475
+75F,F,In-Season,37,9/18/18,Tuesday,Wednesday Practice,32,Friday Game,5,160,800
+75F,F,In-Season,37,9/19/18,Wednesday,Thursday Practice,33,Friday Game,4,95,380
+73A,A,In-Season,34,8/28/18,Tuesday,Tuesday Practice,22,,10,135,1350
+73A,A,In-Season,34,8/29/18,Wednesday,Wednesday Practice,23,,10,135,1350
+73A,A,In-Season,36,9/12/18,Wednesday,Wednesday Practice,29,,8,135,1080
+73A,A,In-Season,37,9/18/18,Tuesday,Wednesday Practice,32,Friday Game,7,160,1120
+65D,D,In-Season,34,8/28/18,Tuesday,Tuesday Practice,22,,5,135,675
+65D,D,In-Season,34,8/29/18,Wednesday,Wednesday Practice,23,,5,135,675
+65D,D,In-Season,34,8/30/18,Thursday,Thursday Practice,24,,3,90,270
+65D,D,In-Season,35,9/4/18,Tuesday,Tuesday Practice,25,,8,140,1120
+65D,D,In-Season,35,9/5/18,Wednesday,Wednesday Practice,26,,4,140,560
+65D,D,In-Season,35,9/6/18,Thursday,Thursday Practice,27,,4,95,380
+65D,D,In-Season,36,9/11/18,Tuesday,Tuesday Practice,28,,4,140,560
+65D,D,In-Season,36,9/12/18,Wednesday,Wednesday Practice,29,,4,135,540
+65D,D,In-Season,36,9/13/18,Thursday,Thursday Practice,30,,3,95,285
+65D,D,In-Season,37,9/17/18,Monday,Tuesday Practice,31,Friday Game,4,140,560
+65D,D,In-Season,37,9/18/18,Tuesday,Wednesday Practice,32,Friday Game,4,160,640
+65D,D,In-Season,37,9/19/18,Wednesday,Thursday Practice,33,Friday Game,4,95,380
+64D,D,In-Season,34,8/28/18,Tuesday,Tuesday Practice,22,,6,135,810
+64D,D,In-Season,34,8/29/18,Wednesday,Wednesday Practice,23,,6,135,810
+64D,D,In-Season,34,8/30/18,Thursday,Thursday Practice,24,,2,90,180
+64D,D,In-Season,35,9/4/18,Tuesday,Tuesday Practice,25,,6,140,840
+64D,D,In-Season,35,9/5/18,Wednesday,Wednesday Practice,26,,4,140,560
+64D,D,In-Season,35,9/6/18,Thursday,Thursday Practice,27,,3,95,285
+64D,D,In-Season,36,9/11/18,Tuesday,Tuesday Practice,28,,3,140,420
+64D,D,In-Season,36,9/12/18,Wednesday,Wednesday Practice,29,,3,135,405
+64D,D,In-Season,36,9/13/18,Thursday,Thursday Practice,30,,3,95,285
+64D,D,In-Season,37,9/17/18,Monday,Tuesday Practice,31,Friday Game,4,140,560
+64D,D,In-Season,37,9/18/18,Tuesday,Wednesday Practice,32,Friday Game,2,160,320
+64D,D,In-Season,37,9/19/18,Wednesday,Thursday Practice,33,Friday Game,3,95,285
+61D,D,In-Season,34,8/28/18,Tuesday,Tuesday Practice,22,,3,135,405
+61D,D,In-Season,34,8/29/18,Wednesday,Wednesday Practice,23,,3,135,405
+52B,B,In-Season,34,8/28/18,Tuesday,Tuesday Practice,22,,6,135,810
+52B,B,In-Season,34,8/29/18,Wednesday,Wednesday Practice,23,,6,135,810
+52B,B,In-Season,34,8/30/18,Thursday,Thursday Practice,24,,4,90,360
+52B,B,In-Season,35,9/4/18,Tuesday,Tuesday Practice,25,,8,140,1120
+52B,B,In-Season,35,9/5/18,Wednesday,Wednesday Practice,26,,5,140,700
+52B,B,In-Season,35,9/6/18,Thursday,Thursday Practice,27,,3,95,285
+52B,B,In-Season,36,9/11/18,Tuesday,Tuesday Practice,28,,7,140,980
+52B,B,In-Season,36,9/12/18,Wednesday,Wednesday Practice,29,,5,135,675
+52B,B,In-Season,36,9/13/18,Thursday,Thursday Practice,30,,3,95,285
+52B,B,In-Season,37,9/17/18,Monday,Tuesday Practice,31,Friday Game,5,140,700
+52B,B,In-Season,37,9/18/18,Tuesday,Wednesday Practice,32,Friday Game,5,160,800
+52B,B,In-Season,37,9/19/18,Wednesday,Thursday Practice,33,Friday Game,2,95,190
+50G,G,In-Season,34,8/28/18,Tuesday,Tuesday Practice,22,,4,135,540
+50G,G,In-Season,34,8/29/18,Wednesday,Wednesday Practice,23,,4,135,540
+50G,G,In-Season,34,8/30/18,Thursday,Thursday Practice,24,,4,90,360
+50G,G,In-Season,35,9/4/18,Tuesday,Tuesday Practice,25,,4,140,560
+50G,G,In-Season,35,9/5/18,Wednesday,Wednesday Practice,26,,5,140,700
+50G,G,In-Season,35,9/6/18,Thursday,Thursday Practice,27,,4,95,380
+50G,G,In-Season,36,9/11/18,Tuesday,Tuesday Practice,28,,4,140,560
+50G,G,In-Season,36,9/12/18,Wednesday,Wednesday Practice,29,,4,135,540
+50G,G,In-Season,36,9/13/18,Thursday,Thursday Practice,30,,4,95,380
+50G,G,In-Season,37,9/17/18,Monday,Tuesday Practice,31,Friday Game,4,140,560
+50G,G,In-Season,37,9/18/18,Tuesday,Wednesday Practice,32,Friday Game,4,160,640
+50G,G,In-Season,37,9/19/18,Wednesday,Thursday Practice,33,Friday Game,4,95,380
+4A,A,In-Season,34,8/28/18,Tuesday,Tuesday Practice,22,,7,135,945
+4A,A,In-Season,35,9/4/18,Tuesday,Tuesday Practice,25,,8,140,1120
+4A,A,In-Season,35,9/5/18,Wednesday,Wednesday Practice,26,,5,140,700
+4A,A,In-Season,35,9/6/18,Thursday,Thursday Practice,27,,3,95,285
+4A,A,In-Season,36,9/11/18,Tuesday,Tuesday Practice,28,,5,140,700
+4A,A,In-Season,36,9/12/18,Wednesday,Wednesday Practice,29,,5,135,675
+4A,A,In-Season,37,9/18/18,Tuesday,Wednesday Practice,32,Friday Game,5,160,800
+4A,A,In-Season,37,9/19/18,Wednesday,Thursday Practice,33,Friday Game,3,95,285
+44A,A,In-Season,34,8/28/18,Tuesday,Tuesday Practice,22,,4.5,135,607.5
+44A,A,In-Season,34,8/29/18,Wednesday,Wednesday Practice,23,,5.3,135,715.5
+44A,A,In-Season,34,8/30/18,Thursday,Thursday Practice,24,,5.4,90,486
+44A,A,In-Season,35,9/4/18,Tuesday,Tuesday Practice,25,,7.1,140,994
+44A,A,In-Season,35,9/5/18,Wednesday,Wednesday Practice,26,,6.3,140,882
+44A,A,In-Season,35,9/6/18,Thursday,Thursday Practice,27,,4.5,95,427.5
+44A,A,In-Season,36,9/11/18,Tuesday,Tuesday Practice,28,,4.2,140,588
+44A,A,In-Season,36,9/12/18,Wednesday,Wednesday Practice,29,,5.3,135,715.5
+44A,A,In-Season,36,9/13/18,Thursday,Thursday Practice,30,,4.1,95,389.5
+44A,A,In-Season,37,9/17/18,Monday,Tuesday Practice,31,Friday Game,5.4,140,756
+44A,A,In-Season,37,9/18/18,Tuesday,Wednesday Practice,32,Friday Game,4.2,160,672
+44A,A,In-Season,37,9/19/18,Wednesday,Thursday Practice,33,Friday Game,4,95,380
+40C,C,In-Season,34,8/28/18,Tuesday,Tuesday Practice,22,,10,135,1350
+40C,C,In-Season,34,8/29/18,Wednesday,Wednesday Practice,23,,4,135,540
+40C,C,In-Season,35,9/4/18,Tuesday,Tuesday Practice,25,,8,140,1120
+40C,C,In-Season,35,9/6/18,Thursday,Thursday Practice,27,,2,95,190
+40C,C,In-Season,36,9/11/18,Tuesday,Tuesday Practice,28,,3,140,420
+40C,C,In-Season,36,9/12/18,Wednesday,Wednesday Practice,29,,3,135,405
+40C,C,In-Season,36,9/13/18,Thursday,Thursday Practice,30,,0.5,95,47.5
+40C,C,In-Season,37,9/17/18,Monday,Tuesday Practice,31,Friday Game,3,140,420
+40C,C,In-Season,37,9/18/18,Tuesday,Wednesday Practice,32,Friday Game,3,160,480
+40C,C,In-Season,37,9/19/18,Wednesday,Thursday Practice,33,Friday Game,0.5,95,47.5
+38F,F,In-Season,34,8/28/18,Tuesday,Tuesday Practice,22,,5,135,675
+38F,F,In-Season,34,8/29/18,Wednesday,Wednesday Practice,23,,4,135,540
+38F,F,In-Season,34,8/30/18,Thursday,Thursday Practice,24,,3,90,270
+38F,F,In-Season,35,9/4/18,Tuesday,Tuesday Practice,25,,5,140,700
+38F,F,In-Season,35,9/5/18,Wednesday,Wednesday Practice,26,,4,140,560
+38F,F,In-Season,35,9/6/18,Thursday,Thursday Practice,27,,3,95,285
+38F,F,In-Season,36,9/13/18,Thursday,Thursday Practice,30,,3,95,285
+38F,F,In-Season,37,9/17/18,Monday,Tuesday Practice,31,Friday Game,3,140,420
+38F,F,In-Season,37,9/18/18,Tuesday,Wednesday Practice,32,Friday Game,3,160,480
+30E,E,In-Season,34,8/28/18,Tuesday,Tuesday Practice,22,,5,135,675
+30E,E,In-Season,34,8/29/18,Wednesday,Wednesday Practice,23,,4,135,540
+30E,E,In-Season,35,9/4/18,Tuesday,Tuesday Practice,25,,5.5,140,770
+30E,E,In-Season,35,9/6/18,Thursday,Thursday Practice,27,,3,95,285
+30E,E,In-Season,36,9/11/18,Tuesday,Tuesday Practice,28,,4,140,560
+30E,E,In-Season,36,9/12/18,Wednesday,Wednesday Practice,29,,4,135,540
+30E,E,In-Season,36,9/13/18,Thursday,Thursday Practice,30,,3,95,285
+30E,E,In-Season,37,9/17/18,Monday,Tuesday Practice,31,Friday Game,3,140,420
+30E,E,In-Season,37,9/18/18,Tuesday,Wednesday Practice,32,Friday Game,4,160,640
+30E,E,In-Season,37,9/19/18,Wednesday,Thursday Practice,33,Friday Game,3,95,285
+22E,E,In-Season,34,8/28/18,Tuesday,Tuesday Practice,22,,5,135,675
+22E,E,In-Season,34,8/29/18,Wednesday,Wednesday Practice,23,,4,135,540
+22E,E,In-Season,34,8/30/18,Thursday,Thursday Practice,24,,3,90,270
+22E,E,In-Season,35,9/4/18,Tuesday,Tuesday Practice,25,,4,140,560
+22E,E,In-Season,35,9/5/18,Wednesday,Wednesday Practice,26,,5,140,700
+22E,E,In-Season,35,9/6/18,Thursday,Thursday Practice,27,,3,95,285
+22E,E,In-Season,36,9/11/18,Tuesday,Tuesday Practice,28,,3,140,420
+22E,E,In-Season,36,9/12/18,Wednesday,Wednesday Practice,29,,4,135,540
+22E,E,In-Season,36,9/13/18,Thursday,Thursday Practice,30,,4,95,380
+22E,E,In-Season,37,9/17/18,Monday,Tuesday Practice,31,Friday Game,3,140,420
+22E,E,In-Season,37,9/18/18,Tuesday,Wednesday Practice,32,Friday Game,4,160,640
+22E,E,In-Season,37,9/19/18,Wednesday,Thursday Practice,33,Friday Game,3,95,285
+19D,D,In-Season,34,8/28/18,Tuesday,Tuesday Practice,22,,5,135,675
+19D,D,In-Season,34,8/29/18,Wednesday,Wednesday Practice,23,,5,135,675
+19D,D,In-Season,35,9/5/18,Wednesday,Wednesday Practice,26,,7,140,980
+19D,D,In-Season,35,9/6/18,Thursday,Thursday Practice,27,,4,95,380
+19D,D,In-Season,36,9/11/18,Tuesday,Tuesday Practice,28,,3,140,420
+19D,D,In-Season,36,9/12/18,Wednesday,Wednesday Practice,29,,4,135,540
+19D,D,In-Season,36,9/13/18,Thursday,Thursday Practice,30,,3,95,285
+19D,D,In-Season,37,9/18/18,Tuesday,Wednesday Practice,32,Friday Game,6,160,960
+19D,D,In-Season,37,9/19/18,Wednesday,Thursday Practice,33,Friday Game,4,95,380
+18C,C,In-Season,34,8/28/18,Tuesday,Tuesday Practice,22,,5,135,675
+18C,C,In-Season,34,8/29/18,Wednesday,Wednesday Practice,23,,3,135,405
+18C,C,In-Season,34,8/30/18,Thursday,Thursday Practice,24,,2,90,180
+18C,C,In-Season,35,9/4/18,Tuesday,Tuesday Practice,25,,4,140,560
+18C,C,In-Season,35,9/5/18,Wednesday,Wednesday Practice,26,,4,140,560
+18C,C,In-Season,35,9/6/18,Thursday,Thursday Practice,27,,4,95,380
+18C,C,In-Season,36,9/12/18,Wednesday,Wednesday Practice,29,,3,135,405
+18C,C,In-Season,36,9/13/18,Thursday,Thursday Practice,30,,3,95,285
+18C,C,In-Season,37,9/18/18,Tuesday,Wednesday Practice,32,Friday Game,4,160,640
+18C,C,In-Season,37,9/19/18,Wednesday,Thursday Practice,33,Friday Game,6,95,570
+143A,A,In-Season,34,8/28/18,Tuesday,Tuesday Practice,22,,4,135,540
+143A,A,In-Season,34,8/29/18,Wednesday,Wednesday Practice,23,,7,135,945
+143A,A,In-Season,34,8/30/18,Thursday,Thursday Practice,24,,4,90,360
+143A,A,In-Season,35,9/4/18,Tuesday,Tuesday Practice,25,,5,140,700
+143A,A,In-Season,35,9/5/18,Wednesday,Wednesday Practice,26,,5,140,700
+143A,A,In-Season,35,9/6/18,Thursday,Thursday Practice,27,,4,95,380
+143A,A,In-Season,36,9/11/18,Tuesday,Tuesday Practice,28,,5,140,700
+143A,A,In-Season,36,9/12/18,Wednesday,Wednesday Practice,29,,4,135,540
+143A,A,In-Season,37,9/17/18,Monday,Tuesday Practice,31,Friday Game,5,140,700
+143A,A,In-Season,37,9/18/18,Tuesday,Wednesday Practice,32,Friday Game,6,160,960
+143A,A,In-Season,37,9/19/18,Wednesday,Thursday Practice,33,Friday Game,4,95,380
+140G,G,In-Season,34,8/28/18,Tuesday,Tuesday Practice,22,,7,135,945
+140G,G,In-Season,34,8/29/18,Wednesday,Wednesday Practice,23,,9,135,1215
+140G,G,In-Season,34,8/30/18,Thursday,Thursday Practice,24,,5,90,450
+140G,G,In-Season,35,9/4/18,Tuesday,Tuesday Practice,25,,8,140,1120
+140G,G,In-Season,35,9/5/18,Wednesday,Wednesday Practice,26,,7,140,980
+140G,G,In-Season,36,9/11/18,Tuesday,Tuesday Practice,28,,7,140,980
+140G,G,In-Season,36,9/12/18,Wednesday,Wednesday Practice,29,,4,135,540
+140G,G,In-Season,36,9/13/18,Thursday,Thursday Practice,30,,4,95,380
+140G,G,In-Season,37,9/17/18,Monday,Tuesday Practice,31,Friday Game,6,140,840
+140G,G,In-Season,37,9/18/18,Tuesday,Wednesday Practice,32,Friday Game,6,160,960
+140G,G,In-Season,37,9/19/18,Wednesday,Thursday Practice,33,Friday Game,4,95,380
+137E,E,In-Season,34,8/28/18,Tuesday,Tuesday Practice,22,,5,135,675
+137E,E,In-Season,34,8/30/18,Thursday,Thursday Practice,24,,4,90,360
+137E,E,In-Season,35,9/4/18,Tuesday,Tuesday Practice,25,,7,140,980
+137E,E,In-Season,35,9/5/18,Wednesday,Wednesday Practice,26,,6,140,840
+137E,E,In-Season,35,9/6/18,Thursday,Thursday Practice,27,,4,95,380
+137E,E,In-Season,36,9/11/18,Tuesday,Tuesday Practice,28,,5,140,700
+137E,E,In-Season,36,9/12/18,Wednesday,Wednesday Practice,29,,5,135,675
+137E,E,In-Season,36,9/13/18,Thursday,Thursday Practice,30,,4,95,380
+137E,E,In-Season,37,9/17/18,Monday,Tuesday Practice,31,Friday Game,4,140,560
+137E,E,In-Season,37,9/19/18,Wednesday,Thursday Practice,33,Friday Game,4,95,380
+12C,C,In-Season,34,8/29/18,Wednesday,Wednesday Practice,23,,5,135,675
+12C,C,In-Season,34,8/30/18,Thursday,Thursday Practice,24,,2,90,180
+12C,C,In-Season,35,9/4/18,Tuesday,Tuesday Practice,25,,7,140,980
+12C,C,In-Season,35,9/6/18,Thursday,Thursday Practice,27,,2,95,190
+12C,C,In-Season,36,9/12/18,Wednesday,Wednesday Practice,29,,4,135,540
+12C,C,In-Season,37,9/17/18,Monday,Tuesday Practice,31,Friday Game,4,140,560
+12C,C,In-Season,37,9/18/18,Tuesday,Wednesday Practice,32,Friday Game,5,160,800
+12C,C,In-Season,37,9/19/18,Wednesday,Thursday Practice,33,Friday Game,2,95,190
+129I,I,In-Season,34,8/28/18,Tuesday,Tuesday Practice,22,,5,135,675
+129I,I,In-Season,34,8/29/18,Wednesday,Wednesday Practice,23,,4,135,540
+129I,I,In-Season,35,9/4/18,Tuesday,Tuesday Practice,25,,5,140,700
+129I,I,In-Season,35,9/5/18,Wednesday,Wednesday Practice,26,,5,140,700
+129I,I,In-Season,36,9/11/18,Tuesday,Tuesday Practice,28,,4,140,560
+129I,I,In-Season,36,9/12/18,Wednesday,Wednesday Practice,29,,4,135,540
+129I,I,In-Season,36,9/13/18,Thursday,Thursday Practice,30,,3,95,285
+129I,I,In-Season,37,9/17/18,Monday,Tuesday Practice,31,Friday Game,4,140,560
+129I,I,In-Season,37,9/19/18,Wednesday,Thursday Practice,33,Friday Game,3,95,285
+127I,I,In-Season,37,9/18/18,Tuesday,Wednesday Practice,32,Friday Game,6,160,960
+127I,I,In-Season,37,9/19/18,Wednesday,Thursday Practice,33,Friday Game,3,95,285
+124A,A,In-Season,34,8/28/18,Tuesday,Tuesday Practice,22,,7,135,945
+124A,A,In-Season,34,8/29/18,Wednesday,Wednesday Practice,23,,6,135,810
+124A,A,In-Season,34,8/30/18,Thursday,Thursday Practice,24,,3,90,270
+124A,A,In-Season,36,9/11/18,Tuesday,Tuesday Practice,28,,3,140,420
+124A,A,In-Season,36,9/12/18,Wednesday,Wednesday Practice,29,,5,135,675
+124A,A,In-Season,36,9/13/18,Thursday,Thursday Practice,30,,3,95,285
+124A,A,In-Season,37,9/17/18,Monday,Tuesday Practice,31,Friday Game,5,140,700
+124A,A,In-Season,37,9/19/18,Wednesday,Thursday Practice,33,Friday Game,3,95,285
+123E,E,In-Season,34,8/29/18,Wednesday,Wednesday Practice,23,,5,135,675
+123E,E,In-Season,34,8/30/18,Thursday,Thursday Practice,24,,5,90,450
+123E,E,In-Season,35,9/4/18,Tuesday,Tuesday Practice,25,,6,140,840
+123E,E,In-Season,35,9/5/18,Wednesday,Wednesday Practice,26,,6,140,840
+123E,E,In-Season,35,9/6/18,Thursday,Thursday Practice,27,,5,95,475
+123E,E,In-Season,36,9/11/18,Tuesday,Tuesday Practice,28,,5,140,700
+123E,E,In-Season,36,9/12/18,Wednesday,Wednesday Practice,29,,5,135,675
+123E,E,In-Season,36,9/13/18,Thursday,Thursday Practice,30,,4,95,380
+123E,E,In-Season,37,9/18/18,Tuesday,Wednesday Practice,32,Friday Game,6,160,960
+123E,E,In-Season,37,9/19/18,Wednesday,Thursday Practice,33,Friday Game,5,95,475
+121G,G,In-Season,34,8/28/18,Tuesday,Tuesday Practice,22,,5,135,675
+121G,G,In-Season,34,8/29/18,Wednesday,Wednesday Practice,23,,4,135,540
+121G,G,In-Season,35,9/4/18,Tuesday,Tuesday Practice,25,,7,140,980
+121G,G,In-Season,35,9/6/18,Thursday,Thursday Practice,27,,3,95,285
+121G,G,In-Season,36,9/12/18,Wednesday,Wednesday Practice,29,,4,135,540
+121G,G,In-Season,36,9/13/18,Thursday,Thursday Practice,30,,2,95,190
+121G,G,In-Season,37,9/18/18,Tuesday,Wednesday Practice,32,Friday Game,4,160,640
+121G,G,In-Season,37,9/19/18,Wednesday,Thursday Practice,33,Friday Game,3,95,285
+118I,I,In-Season,34,8/28/18,Tuesday,Tuesday Practice,22,,5,135,675
+118I,I,In-Season,35,9/4/18,Tuesday,Tuesday Practice,25,,7,140,980
+118I,I,In-Season,36,9/11/18,Tuesday,Tuesday Practice,28,,4,140,560
+118I,I,In-Season,36,9/12/18,Wednesday,Wednesday Practice,29,,5,135,675
+118I,I,In-Season,36,9/13/18,Thursday,Thursday Practice,30,,3,95,285
+118I,I,In-Season,37,9/17/18,Monday,Tuesday Practice,31,Friday Game,3,140,420
+114E,E,In-Season,34,8/28/18,Tuesday,Tuesday Practice,22,,7,135,945
+114E,E,In-Season,34,8/29/18,Wednesday,Wednesday Practice,23,,8,135,1080
+114E,E,In-Season,35,9/4/18,Tuesday,Tuesday Practice,25,,9,140,1260
+114E,E,In-Season,35,9/5/18,Wednesday,Wednesday Practice,26,,7,140,980
+114E,E,In-Season,36,9/11/18,Tuesday,Tuesday Practice,28,,4,140,560
+114E,E,In-Season,36,9/12/18,Wednesday,Wednesday Practice,29,,6,135,810
+114E,E,In-Season,37,9/18/18,Tuesday,Wednesday Practice,32,Friday Game,6,160,960
+114E,E,In-Season,37,9/19/18,Wednesday,Thursday Practice,33,Friday Game,5,95,475
+113G,G,In-Season,34,8/28/18,Tuesday,Tuesday Practice,22,,7,135,945
+113G,G,In-Season,34,8/29/18,Wednesday,Wednesday Practice,23,,6,135,810
+113G,G,In-Season,35,9/4/18,Tuesday,Tuesday Practice,25,,10,140,1400
+113G,G,In-Season,35,9/6/18,Thursday,Thursday Practice,27,,4,95,380
+113G,G,In-Season,36,9/12/18,Wednesday,Wednesday Practice,29,,5,135,675
+113G,G,In-Season,36,9/13/18,Thursday,Thursday Practice,30,,4,95,380
+113G,G,In-Season,37,9/17/18,Monday,Tuesday Practice,31,Friday Game,7,140,980
+113G,G,In-Season,37,9/18/18,Tuesday,Wednesday Practice,32,Friday Game,5,160,800
+111H,H,In-Season,34,8/28/18,Tuesday,Tuesday Practice,22,,3,135,405
+111H,H,In-Season,34,8/29/18,Wednesday,Wednesday Practice,23,,3,135,405
+111H,H,In-Season,34,8/30/18,Thursday,Thursday Practice,24,,0.5,90,45
+111H,H,In-Season,35,9/4/18,Tuesday,Tuesday Practice,25,,5,140,700
+111H,H,In-Season,35,9/5/18,Wednesday,Wednesday Practice,26,,5,140,700
+111H,H,In-Season,35,9/6/18,Thursday,Thursday Practice,27,,2,95,190
+111H,H,In-Season,36,9/11/18,Tuesday,Tuesday Practice,28,,7,140,980
+111H,H,In-Season,36,9/12/18,Wednesday,Wednesday Practice,29,,3,135,405
+111H,H,In-Season,36,9/13/18,Thursday,Thursday Practice,30,,3,95,285
+111H,H,In-Season,37,9/18/18,Tuesday,Wednesday Practice,32,Friday Game,4,160,640
+107F,F,In-Season,35,9/4/18,Tuesday,Tuesday Practice,25,,6,140,840
+107F,F,In-Season,35,9/5/18,Wednesday,Wednesday Practice,26,,4,140,560
+107F,F,In-Season,35,9/6/18,Thursday,Thursday Practice,27,,2,95,190
+107F,F,In-Season,37,9/17/18,Monday,Tuesday Practice,31,Friday Game,3,140,420
+107F,F,In-Season,37,9/18/18,Tuesday,Wednesday Practice,32,Friday Game,2,160,320
+107F,F,In-Season,37,9/19/18,Wednesday,Thursday Practice,33,Friday Game,2,95,190
+104B,B,In-Season,34,8/28/18,Tuesday,Tuesday Practice,22,,8,135,1080
+104B,B,In-Season,34,8/29/18,Wednesday,Wednesday Practice,23,,6,135,810
+104B,B,In-Season,34,8/30/18,Thursday,Thursday Practice,24,,5,90,450
+104B,B,In-Season,35,9/4/18,Tuesday,Tuesday Practice,25,,9,140,1260
+104B,B,In-Season,35,9/5/18,Wednesday,Wednesday Practice,26,,6,140,840
+104B,B,In-Season,35,9/6/18,Thursday,Thursday Practice,27,,2,95,190
+104B,B,In-Season,36,9/11/18,Tuesday,Tuesday Practice,28,,2,140,280
+104B,B,In-Season,36,9/12/18,Wednesday,Wednesday Practice,29,,3,135,405
+104B,B,In-Season,37,9/17/18,Monday,Tuesday Practice,31,Friday Game,3,140,420
+104B,B,In-Season,37,9/18/18,Tuesday,Wednesday Practice,32,Friday Game,4,160,640
+104B,B,In-Season,37,9/19/18,Wednesday,Thursday Practice,33,Friday Game,2,95,190
+102F,F,In-Season,35,9/4/18,Tuesday,Tuesday Practice,25,,4,140,560
+102F,F,In-Season,36,9/11/18,Tuesday,Tuesday Practice,28,,3,140,420
+102F,F,In-Season,37,9/17/18,Monday,Tuesday Practice,31,Friday Game,5,140,700
+102F,F,In-Season,37,9/18/18,Tuesday,Wednesday Practice,32,Friday Game,6,160,960
+102F,F,In-Season,37,9/19/18,Wednesday,Thursday Practice,33,Friday Game,5,95,475
+101H,H,In-Season,34,8/28/18,Tuesday,Tuesday Practice,22,,4,135,540
+101H,H,In-Season,34,8/29/18,Wednesday,Wednesday Practice,23,,4,135,540
+101H,H,In-Season,34,8/30/18,Thursday,Thursday Practice,24,,4,90,360
+101H,H,In-Season,35,9/4/18,Tuesday,Tuesday Practice,25,,7,140,980
+101H,H,In-Season,35,9/5/18,Wednesday,Wednesday Practice,26,,4,140,560
+101H,H,In-Season,35,9/6/18,Thursday,Thursday Practice,27,,4,95,380
+101H,H,In-Season,36,9/11/18,Tuesday,Tuesday Practice,28,,4,140,560
+101H,H,In-Season,36,9/12/18,Wednesday,Wednesday Practice,29,,4,135,540
+101H,H,In-Season,36,9/13/18,Thursday,Thursday Practice,30,,4,95,380
+101H,H,In-Season,37,9/18/18,Tuesday,Wednesday Practice,32,Friday Game,4,160,640
+101H,H,In-Season,37,9/19/18,Wednesday,Thursday Practice,33,Friday Game,4,95,380
